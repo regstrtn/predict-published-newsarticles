@@ -1,0 +1,5 @@
+#Ignore the large txt.gz guardian data file
+*.txt.gz
+*.db
+*.npy
+*.txt
